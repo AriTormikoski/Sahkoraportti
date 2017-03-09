@@ -1,0 +1,19 @@
+{
+  "name": "sahkonkayton paivaraportti",
+  "version": "1.0.0",
+  "main": "energiaPalvelu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "energiaPalvelu.js"
+  },
+  "author": "AriT",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "fs": "0.0.1-security",
+    "xlsx-to-json": "^0.2.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
